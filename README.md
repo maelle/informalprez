@@ -13,6 +13,7 @@ The goal of informalprez is to make an informal presentation about pkgdown chang
 ```r
 start_presentation(wday = "Monday")
 use_organization()
+bonjour()
 ```
 
 * Bootstrap 4 look. ✨
