@@ -12,3 +12,23 @@ knitr::opts_chunk$set(
 ```{r setup}
 library(informalprez)
 ```
+
+## Cupcake 1
+
+Cupcake ipsum dolor. Sit amet chocolate cake jujubes cake. Cheesecake sweet roll carrot cake chupa chups sweet pudding oat cake. Pudding chocolate bar toffee macaroon cheesecake cake jelly jelly-o pastry. Candy chupa chups tart. Bonbon biscuit sweet roll candy canes jelly-o. Candy canes sugar plum chupa chups cake. Macaroon pastry sweet roll. Gummi bears soufflé jelly cookie cake chocolate bar. Icing marzipan gingerbread lemon drops lollipop sesame snaps. Cake dessert cake jelly beans. Fruitcake toffee tootsie roll cake pudding marshmallow sweet topping candy canes. Donut cake liquorice.
+
+## Cupcake 2
+
+Chocolate bar toffee tart icing. Toffee sesame snaps toffee danish topping dessert gingerbread tart. Toffee oat cake pudding bear claw macaroon cotton candy sweet roll chocolate cake. Apple pie ice cream chupa chups candy jelly-o jujubes. Marshmallow pudding jelly jelly beans fruitcake powder dragée halvah gummi bears. Powder cupcake dragée cake soufflé cookie biscuit candy dragée. Icing cotton candy tootsie roll toffee croissant chocolate bar gingerbread. Gummi bears gingerbread powder cookie. Jelly-o jujubes dessert gummies liquorice jelly cheesecake tiramisu croissant. Croissant fruitcake bear claw bonbon icing chocolate biscuit cheesecake chupa chups. Lollipop carrot cake caramels. Candy canes carrot cake gingerbread toffee powder candy tootsie roll powder jujubes. Toffee chupa chups cake sugar plum sweet oat cake apple pie. Cake gingerbread soufflé croissant icing tiramisu danish pie cheesecake.
+
+## Cupcake 3
+
+Toffee pie brownie sugar plum toffee cake fruitcake. Chocolate cake bear claw powder gummies. Pudding pastry caramels biscuit toffee candy canes. Sesame snaps muffin pastry muffin bonbon wafer icing brownie. Icing tootsie roll caramels wafer bear claw macaroon apple pie apple pie candy. Biscuit donut chocolate carrot cake croissant. Liquorice jelly-o oat cake tiramisu dessert. Tart bonbon sweet pastry. Liquorice candy jelly candy canes sweet oat cake toffee icing tootsie roll. Marshmallow jujubes wafer icing. Bonbon powder caramels sweet. Cake bonbon croissant pastry cake toffee gummi bears. Sweet dragée cake macaroon chocolate bar candy canes tootsie roll dessert. Sugar plum toffee cheesecake muffin lollipop biscuit.
+
+## Cupcake 4
+
+Pie sweet roll croissant. Cake tiramisu donut. Chocolate cake toffee wafer topping. Cake dessert candy marshmallow candy jelly-o gummi bears. Bear claw dessert ice cream apple pie bear claw jujubes gummies ice cream. Dragée candy canes jelly fruitcake. Apple pie chocolate bar lollipop cookie sugar plum cake. Cake chupa chups macaroon. Cake marshmallow gummi bears pudding cheesecake cake pie. Cake pastry fruitcake cake. Pudding soufflé dragée pudding muffin dragée. Carrot cake ice cream jelly jelly carrot cake cupcake pastry tootsie roll chocolate. Candy soufflé tart pastry donut powder caramels pastry. Caramels bear claw pie candy canes cake topping chupa chups.
+
+## Cupcake 5
+
+Tootsie roll marshmallow donut. Chocolate cake cake sesame snaps gummies biscuit chocolate ice cream. Candy chupa chups bear claw toffee croissant lemon drops. Danish macaroon tootsie roll candy canes apple pie croissant halvah ice cream lollipop. Carrot cake cotton candy liquorice gummi bears marzipan. Jelly topping bonbon tootsie roll chocolate cake pudding macaroon chocolate. Lollipop pudding bear claw cupcake cake topping. Cheesecake jelly beans gummies powder bonbon brownie dragée tiramisu. Danish gummies gummies topping muffin candy bear claw. Pie cotton candy carrot cake dessert. Pudding cookie donut tiramisu candy. Cake toffee jelly pastry. Liquorice dragée tootsie roll. Dragée soufflé candy powder croissant.
