@@ -13,6 +13,8 @@ knitr::opts_chunk$set(
 library(informalprez)
 ```
 
+[Source](http://www.cupcakeipsum.com/)
+
 ## Cupcake 1
 
 Cupcake ipsum dolor. Sit amet chocolate cake jujubes cake. Cheesecake sweet roll carrot cake chupa chups sweet pudding oat cake. Pudding chocolate bar toffee macaroon cheesecake cake jelly jelly-o pastry. Candy chupa chups tart. Bonbon biscuit sweet roll candy canes jelly-o. Candy canes sugar plum chupa chups cake. Macaroon pastry sweet roll. Gummi bears soufflé jelly cookie cake chocolate bar. Icing marzipan gingerbread lemon drops lollipop sesame snaps. Cake dessert cake jelly beans. Fruitcake toffee tootsie roll cake pudding marshmallow sweet topping candy canes. Donut cake liquorice.
