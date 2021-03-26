@@ -1,0 +1,4 @@
+template:
+  bootstrap: 4
+  params:
+    noindex: true

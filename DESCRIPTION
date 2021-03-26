@@ -1,0 +1,25 @@
+Package: informalprez
+Title: What the Package Does (One Line, Title Case)
+Version: 0.0.0.9000
+Authors@R: 
+    c(person(given = "Maëlle",
+             family = "Salmon",
+             role = c("cre", "aut"),
+             email = "msmaellesalmon@gmail.com",
+             comment = c(ORCID = "0000-0002-2815-0399", "Maëlle ate madeleines and read the snark.")),
+      person(given = "Madeleine",
+             family = "Paulmier",
+             role = "ctb",
+             comment = "Madeleine baked madeleines."),
+      person(given = "Lady",
+             family = "Whistledown",
+             role = "aut",
+             comment = "Lady Whistledown wrote all the snark."))
+Description: What the package does (one paragraph).
+License: MIT + file LICENSE
+Encoding: UTF-8
+LazyData: true
+Roxygen: list(markdown = TRUE)
+RoxygenNote: 7.1.1.9001
+URL: https://github.com/maelle/informalprez
+BugReports: https://github.com/maelle/informalprez/issues
