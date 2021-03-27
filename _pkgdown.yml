@@ -6,3 +6,4 @@ template:
     fg: "#B8BCC2"
   params:
     noindex: true
+    highlightcss: false
