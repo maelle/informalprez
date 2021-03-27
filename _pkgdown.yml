@@ -2,3 +2,35 @@ template:
   bootstrap: 4
   params:
     noindex: true
+
+navbar:
+ structure:
+   right:  [news, intro, reference, articles, tutorials]
+   left: [github]
+
+footer:
+ left:
+   structure: [pkgdown]
+ right:
+   structure: [authors, legal]
+   components:
+     legal: Provided without ***any warranty***.
+
+home:
+  sidebar:
+    structure: [authors, custom, toc, dev]
+    components:
+      custom:
+        title: Funding
+        text: We are *grateful* for funding!
+
+authors:
+  footer:
+    roles: [cre, fnd]
+    text: "Crafted by"
+  sidebar:
+    roles: [ctb]
+    before: "So *who* does the work?"
+    after: "Thanks all!"
+  before: "This package is proudly brought to you by:"
+  after: "See the [changelog](news/index.html) for other contributors. :pray:"
