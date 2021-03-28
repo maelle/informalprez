@@ -1,4 +1,4 @@
 template:
-  bootstrap: 4
+  package: informalpkg
   params:
     noindex: true
