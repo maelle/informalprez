@@ -2,3 +2,14 @@ template:
   bootstrap: 4
   params:
     noindex: true
+
+authors:
+  footer:
+    roles: [cre, fnd]
+    text: "Crafted by"
+  sidebar:
+    roles: [ctb]
+    before: "So *who* does the work?"
+    after: "Thanks all!"
+  before: "This package is proudly brought to you by:"
+  after: "See the [changelog](news/index.html) for other contributors. :pray:"
