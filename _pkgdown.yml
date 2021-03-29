@@ -5,7 +5,7 @@ template:
 
 navbar:
  structure:
-   right:  [news, intro, reference, articles, tutorials]
+   right:  [news, intro, reference]
    left: [github]
 
 footer:
