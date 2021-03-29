@@ -1,4 +1,9 @@
 template:
   bootstrap: 4
+  bootswatch: lux
   params:
     noindex: true
+
+navbar:
+  type: dark
+  bg: dark
