@@ -1,0 +1,15 @@
+body {
+  padding-top: 70px;
+}
+#sidebar {
+  padding: 60px;
+}
+
+@media (max-width: 979px) {
+  body {
+    padding-top: 5px;
+  }
+  .pkg-logo {
+    padding-top: 10px;
+  }
+}
