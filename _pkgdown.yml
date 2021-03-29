@@ -2,3 +2,24 @@ template:
   bootstrap: 4
   params:
     noindex: true
+
+navbar:
+ structure:
+   right:  [news, intro, reference]
+   left: [github]
+
+footer:
+ left:
+   structure: [pkgdown]
+ right:
+   structure: [authors, legal]
+   components:
+     legal: Provided without ***any warranty***.
+
+home:
+  sidebar:
+    structure: [authors, custom, toc, dev]
+    components:
+      custom:
+        title: Funding
+        text: We are *grateful* for funding!
