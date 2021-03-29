@@ -1,4 +1,13 @@
 template:
   bootstrap: 4
+  bootswatch: lumen
+  bslib:
+    bg: "#202123"
+    fg: "#B8BCC2"
   params:
     noindex: true
+    highlightcss: false
+
+navbar:
+  type: dark
+  bg: primary
