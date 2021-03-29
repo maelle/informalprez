@@ -27,9 +27,10 @@ bonjour()
 * Bootstrap 4 look. ✨
 * Theming. 🎨
 * bslib usage under the hood. 🔧
-* Other customization: navbar, sidebar, footer. ✂️
-* Configuration in template packages. 📦
+* Other customization: navbar, sidebar, footer & authors. ✂
+* Styling of external links. 🔗
 * Empty templates for customization à la bookdown. 🧀
+* Configuration in template packages. 📦
 * New customization vignette. 🧑‍🏫
 
 ## Acknowledgements
