@@ -8,6 +8,14 @@ The goal of informalprez is to make an informal presentation about pkgdown chang
 
 [^informal]: Informal means no slidedeck.
 
+Context
+
+* [Bootstrap](https://getbootstrap.com/);
+* [Bootswatch](https://bootswatch.com/);
+* [bslib](https://rstudio.github.io/bslib/)[^bslib].
+
+[^bslib]: The pkgdown website of bslib uses the quillt template package.
+
 ## Plan
 
 ```r
