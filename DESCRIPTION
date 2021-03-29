@@ -24,6 +24,6 @@ RoxygenNote: 7.1.1.9001
 URL: https://github.com/maelle/informalprez
 BugReports: https://github.com/maelle/informalprez/issues
 Config/Needs/website: 
-  r-lib/pkgdown@60783f9c4a1c370f4210b99c2cfd002b6e34fff7
+  r-lib/pkgdown
 Suggests: 
     rmarkdown
